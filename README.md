@@ -10,4 +10,6 @@ The primary objective of the "MADAV ECOMMERCE SALES DASHBRD" is to provide a com
 -	Sum of Quantity by Payment Mode
 -	Sum of Profit by Sub-Category
 -	Time Dimension
+## Dashboard
+![Dashbord-01](https://github.com/user-attachments/assets/35f54bb9-62bd-4429-ab73-0296c5569649)
 
